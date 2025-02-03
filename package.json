@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "mkdir -p public && cp -r * public"
+    "build": "set -x && mkdir -p public && cp -r * public"
   },
   "repository": {
     "type": "git",
