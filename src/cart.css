@@ -56,10 +56,12 @@
 **/
 
 .cartItem{
-    border: 2px solid #000;
-    border-radius: 5px;
+    border: 1px solid #000;
+    border-radius: 10px;
     display: flex;
 }
+
+
 
 .titelPriceX{
     width: 210px;
@@ -82,6 +84,13 @@
     background-color: #000;
     color: #fff;
     border-radius: 0.5rem;
-    padding: 0.4rem 0.5rem;
+    padding: 0.2rem 0.3rem;
+
+}
+
+.cart-item-total {
+    font-size: 2rem;
+    font-weight: 900;
+    text-align: right;
 
 }
