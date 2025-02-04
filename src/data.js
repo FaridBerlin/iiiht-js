@@ -5,7 +5,7 @@ let shopItemData = [{
     name: "#1 Car Charger",
     disc: "IPhone, Samsung and Tablets",
     price: 11,
-    img: "../img/81S7YP8KBkL._AC_SX679_.jpg",
+    img: "/img/81S7YP8KBkL._AC_SX679_.jpg",
 
 },
 
@@ -111,7 +111,7 @@ let shopItemData = [{
     name: "#13 Car Charger",
     disc: "IPhone, Samsung and Tablets",
     price: 37,
-    img: "../img/car9.jpg",
+    img: "../img/car16.jpg",
 },
 
 {
